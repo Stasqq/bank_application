@@ -1,4 +1,4 @@
-package stanislaw.czobot.bank.application;
+package bank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
