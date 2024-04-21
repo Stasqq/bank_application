@@ -1,9 +1,9 @@
-package bank.entity.config;
+package bank.datamodel.config;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@EntityScan("bank.entity")
+@EntityScan("bank.datamodel")
 public class EntityConfig {
 }

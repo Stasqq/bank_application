@@ -1,4 +1,4 @@
-package bank.services;
+package bank.services.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
